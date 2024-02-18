@@ -1,0 +1,1 @@
+This code creates a card with a hover effect that changes the text color and expands the background colors. It uses the 'Poppins' font from Google Fonts and applies various CSS properties to achieve the desired design.
